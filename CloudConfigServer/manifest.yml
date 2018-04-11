@@ -1,5 +1,6 @@
 applications:
 - name: CloudConfigServer
   memory: 512M
+  domain: cfsapps.io
   host: springboot-first
   path: target/demo-0.0.1-SNAPSHOT.jar
